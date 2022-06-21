@@ -1,5 +1,4 @@
 # Machine Learning in Anti-Money Laundering (AML)
-UNCC Online FinTech Bootcamp Module 16 Project due by 11:59pm 3/27/2022
 
 ![](Images/Infosys_graphic.png)
 
